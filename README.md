@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshshah28&label=Profile%20views&color=0e75b6&style=flat" alt="harshshah28" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshshah28" alt="harshshah28" /></a> </p>
-
 - 🔭 I’m currently working on **Spring boot, Spring Security**
 
 - 🌱 I’m currently learning **Microservices, Spring Security, Html, Css**
@@ -30,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshshah28&show_icons=true&locale=en" alt="harshshah28" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshshah28&" alt="harshshah28" /></p>
+
