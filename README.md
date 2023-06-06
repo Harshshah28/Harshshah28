@@ -1,3 +1,9 @@
+<!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+ -->
+ 
+ <p><img align="center" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Java developer" /></p>
+
+
 <h1 align="center">Hi 👋, I'm Harsh Shah</h1>
 <h3 align="center">I am Java Backend Developer proficient in Object-Oriented Programming, Data Structures and Algorithms, SQL, and Spring Boot</h3>
 
