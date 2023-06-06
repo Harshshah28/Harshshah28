@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Shah</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">I am Java Backend Developer proficient in Object-Oriented Programming, Data Structures and Algorithms, SQL, and Spring Boot</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshshah28&label=Profile%20views&color=0e75b6&style=flat" alt="harshshah28" /> </p>
 
@@ -9,9 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harshshah28](https://github.com/Harshshah28)
 
+- 💬 Ask me about **Java, Spring Boot, MySQL, DSA**
+
 - 📫 How to reach me **imharshshah28786@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/164fCJs3HXA402Mn77X_qwZzNeIxW0RCn/view?usp=sharing](https://drive.google.com/file/d/164fCJs3HXA402Mn77X_qwZzNeIxW0RCn/view?usp=sharing)
+
+- ⚡ Fun fact **My code never has bugs, it just develops random unexpected features**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshshah28&show_icons=true&locale=en" alt="harshshah28" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshshah28&" alt="harshshah28" /></p>
-
